@@ -1,0 +1,11 @@
+[I] [Core] Initialized SDL v2.32.8
+[I] [Audio] Initialized SoLoud 20260903 using MiniAudio at 44100hz / 441 samples / 2 channels
+[I] [GL] Version: OpenGL 4.6.0 / Intel / Intel(R) UHD Graphics / 4.6.0 - Build 27.20.100.8935
+[I] [GL] Max texture size: 16384
+[I] [GL] Using OpenGL 2 API.
+[W] [GL] Intel GPU detected on previous launch. Due to memory corruption issues, OpenGL 3 support has been disabled for Intel GPUs. See issue #11041.
+[I] [JAVA] Version: 25.0.1
+[I] [RAM] Available: 2.1 GB
+[I] [Mindustry] Version: 160.5
+[I] Total time to load: 19301ms
+[I] Fetched 266 community servers.
