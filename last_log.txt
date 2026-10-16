@@ -7,5 +7,5 @@
 [I] [JAVA] Version: 25.0.1
 [I] [RAM] Available: 2.1 GB
 [I] [Mindustry] Version: 160.5
-[I] Total time to load: 19301ms
-[I] Fetched 266 community servers.
+[I] Total time to load: 15002ms
+[I] Fetched 258 community servers.
